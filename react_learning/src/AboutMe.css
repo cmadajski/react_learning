@@ -1,0 +1,35 @@
+.introduction {
+    background-color: rgb(56, 56, 56);
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    width: fit-content;
+}
+.text {
+    height: fit-content;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: left;
+    font-size: 24px;
+
+}
+strong {
+    color: rgb(165, 165, 165);
+}
+span {
+    display: block;
+}
+.title {
+    font-size: 32px;
+    color: white;
+}
+img {
+    width: 200px;
+    height: 200px;
+    display: block;
+    border-radius: 10px;
+    margin: 10px;
+    transition: 2s ease;
+}
